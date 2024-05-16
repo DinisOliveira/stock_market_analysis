@@ -18,11 +18,12 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/DinisOliveira/stock-market-analysis.git
 
-   
-2. **Install the required dependencies**
-   
-pip install -r requirements.txt
+2. **Navigate to the repository directory:**
 
-3. **Run the main Script**
+```bash
 
-python main.ipynb
+cd stock-market-analysis
+
+3. **Navigate to the repository directory:**
+
+python main.ipynb 
