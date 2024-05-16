@@ -1,6 +1,6 @@
 # Stock Market Analysis with Python
 
-This project analyzes historical stock market data using Python, pandas, NumPy, and Plotly. It provides insights into stock performance through interactive visualizations and advanced analysis techniques.
+This simple project analyzes historical stock market data using Python, pandas, NumPy, and Plotly. It provides insights into stock performance through interactive visualizations and analysis techniques.
 
 ## Features
 
