@@ -18,11 +18,15 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/DinisOliveira/stock-market-analysis.git
 
+2. **Navigate to the repository directory:**
    
-2. **Install the required dependencies**
+   ```bash
+
+   cd stock-market-analysis
+3. **Launch Jupyter Notebook:**
    
-pip install -r requirements.txt
+   jupyter notebook
 
-3. **Run the main Script**
+4. **Open and run the notebook in your browser.**
 
-python main.ipynb
+   main.ipynb
